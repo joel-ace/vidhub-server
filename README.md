@@ -1,4 +1,4 @@
-# Adonis API application
+# Vidhub
 
 Vidhub is an online streaming application API built the AdonisJS API. A front end will be built using VueJS to consume this API. Here's a link to the [Front End Repo](https://github.com/joel-ace/vidhub-client)
 
